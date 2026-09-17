@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-MY_P-0.1";
+const cacheName = "DefaultCompany-My project (1)-0.1";
 const contentToCache = [
-    "Build/MyArtGallerySite_N.loader.js",
-    "Build/MyArtGallerySite_N.framework.js.unityweb",
-    "Build/MyArtGallerySite_N.data.unityweb",
-    "Build/MyArtGallerySite_N.wasm.unityweb",
+    "Build/12.loader.js",
+    "Build/12.framework.js.unityweb",
+    "Build/12.data.unityweb",
+    "Build/12.wasm.unityweb",
     "TemplateData/style.css"
 
 ];

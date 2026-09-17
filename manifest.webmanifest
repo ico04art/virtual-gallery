@@ -1,11 +1,11 @@
 {
-    "name": "MY_P",
-    "short_name": "MY_P",
+    "name": "My project (1)",
+    "short_name": "My project (1)",
     "start_url": "index.html",
     "display": "fullscreen",
-    "background_color": "#231F20",
+    "background_color": "#000000",
     "theme_color": "#000",
-    "description": "",
+    "description": "BORSHOSH",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
